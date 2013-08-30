@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 
 <url>
@@ -253,11 +253,5 @@
   <lastmod>2013-08-28T23:32:07+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.antonsport.com/404.html</loc>
-  <lastmod>2013-08-28T23:32:07+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>.8</priority>
 </url>
 </urlset>
